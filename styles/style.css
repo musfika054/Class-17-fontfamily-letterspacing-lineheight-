@@ -1,0 +1,107 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+
+
+@import url('https://fonts.googleapis.com/css2?family=Yuji+Mai&display=swap');
+
+
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+#text1{
+    font-family: "Righteous", serif;
+}
+
+
+
+
+#text2{
+    font-family: "Yuji Mai", serif;
+}
+
+
+
+#text3{
+    font-family: ;
+}
+
+
+h1{
+    margin: 20px 0px;
+
+    text-align: center;
+
+    color: cornflowerblue;
+
+
+}
+
+
+#hello{
+    background-color: darkturquoise;
+
+    width: 500px;
+
+    text-align: center;
+
+    margin: auto;
+
+    color: crimson;
+
+}
+
+
+
+h3{
+   
+    margin:20px opx;
+
+    text-align: center;
+ 
+}
+
+
+
+#letter {
+
+    background-color: aquamarine;
+
+    width: 1500px;
+
+    margin: 40px 40px;
+
+    text-align: center;
+
+    color: deeppink;
+  
+}
+
+
+
+/* <!--selector--> */
+
+#hello > p {
+    color: chocolate;
+
+}
+
+
+
+#letter > h3 {
+    
+    letter-spacing: 15px;
+
+    line-height: 1.9;
+}
+
+
+
+
